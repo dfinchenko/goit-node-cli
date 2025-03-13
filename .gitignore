@@ -1,0 +1,10 @@
+# Node.js
+node_modules
+
+# IDE settings
+.vscode
+.idea
+
+# env files
+.env
+env.local
