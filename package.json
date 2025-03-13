@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^13.1.0",
-    "nanoid": "^5.1.2"
+    "nanoid": "^5.1.3"
   }
 }
